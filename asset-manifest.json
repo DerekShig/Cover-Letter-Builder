@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/DerekShig/DerekShig.github.io/Cover-Letter-Builder/static/css/main.6f19f8d0.chunk.css",
+    "main.js": "/DerekShig/DerekShig.github.io/Cover-Letter-Builder/static/js/main.d2c8c447.chunk.js",
+    "main.js.map": "/DerekShig/DerekShig.github.io/Cover-Letter-Builder/static/js/main.d2c8c447.chunk.js.map",
+    "runtime-main.js": "/DerekShig/DerekShig.github.io/Cover-Letter-Builder/static/js/runtime-main.bcd8b155.js",
+    "runtime-main.js.map": "/DerekShig/DerekShig.github.io/Cover-Letter-Builder/static/js/runtime-main.bcd8b155.js.map",
+    "static/js/2.3f513a37.chunk.js": "/DerekShig/DerekShig.github.io/Cover-Letter-Builder/static/js/2.3f513a37.chunk.js",
+    "static/js/2.3f513a37.chunk.js.map": "/DerekShig/DerekShig.github.io/Cover-Letter-Builder/static/js/2.3f513a37.chunk.js.map",
+    "index.html": "/DerekShig/DerekShig.github.io/Cover-Letter-Builder/index.html",
+    "precache-manifest.76e292ec9585cb72da05ba56232cf803.js": "/DerekShig/DerekShig.github.io/Cover-Letter-Builder/precache-manifest.76e292ec9585cb72da05ba56232cf803.js",
+    "service-worker.js": "/DerekShig/DerekShig.github.io/Cover-Letter-Builder/service-worker.js",
+    "static/css/main.6f19f8d0.chunk.css.map": "/DerekShig/DerekShig.github.io/Cover-Letter-Builder/static/css/main.6f19f8d0.chunk.css.map",
+    "static/js/2.3f513a37.chunk.js.LICENSE": "/DerekShig/DerekShig.github.io/Cover-Letter-Builder/static/js/2.3f513a37.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bcd8b155.js",
+    "static/js/2.3f513a37.chunk.js",
+    "static/css/main.6f19f8d0.chunk.css",
+    "static/js/main.d2c8c447.chunk.js"
+  ]
+}
