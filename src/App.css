@@ -94,6 +94,9 @@ button:focus {
 .letter {
 	width: 70%;
 	margin-bottom: 75px;
+	box-shadow: 0 5px 10px rgba(154,160,185,.05), 0 15px 40px rgba(166,173,201,.2);
+	padding: 10px;
+	border-radius: 25px;
 }
 
 .everything {
