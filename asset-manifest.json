@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Cover-Letter-Builder/static/css/main.ac1763d3.chunk.css",
+    "main.css": "/Cover-Letter-Builder/static/css/main.495d4121.chunk.css",
     "main.js": "/Cover-Letter-Builder/static/js/main.a2a18c00.chunk.js",
     "main.js.map": "/Cover-Letter-Builder/static/js/main.a2a18c00.chunk.js.map",
     "runtime-main.js": "/Cover-Letter-Builder/static/js/runtime-main.4edbce51.js",
@@ -8,15 +8,15 @@
     "static/js/2.3f513a37.chunk.js": "/Cover-Letter-Builder/static/js/2.3f513a37.chunk.js",
     "static/js/2.3f513a37.chunk.js.map": "/Cover-Letter-Builder/static/js/2.3f513a37.chunk.js.map",
     "index.html": "/Cover-Letter-Builder/index.html",
-    "precache-manifest.f13d9e00c1d0f0a7a1d091da6bd229c5.js": "/Cover-Letter-Builder/precache-manifest.f13d9e00c1d0f0a7a1d091da6bd229c5.js",
+    "precache-manifest.19854ee9d5ecbcec58737a31c7eb9dee.js": "/Cover-Letter-Builder/precache-manifest.19854ee9d5ecbcec58737a31c7eb9dee.js",
     "service-worker.js": "/Cover-Letter-Builder/service-worker.js",
-    "static/css/main.ac1763d3.chunk.css.map": "/Cover-Letter-Builder/static/css/main.ac1763d3.chunk.css.map",
+    "static/css/main.495d4121.chunk.css.map": "/Cover-Letter-Builder/static/css/main.495d4121.chunk.css.map",
     "static/js/2.3f513a37.chunk.js.LICENSE": "/Cover-Letter-Builder/static/js/2.3f513a37.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.4edbce51.js",
     "static/js/2.3f513a37.chunk.js",
-    "static/css/main.ac1763d3.chunk.css",
+    "static/css/main.495d4121.chunk.css",
     "static/js/main.a2a18c00.chunk.js"
   ]
 }
